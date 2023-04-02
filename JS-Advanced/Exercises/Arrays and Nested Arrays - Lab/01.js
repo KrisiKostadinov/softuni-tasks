@@ -1,3 +1,5 @@
+// --- 1.	Even Position Element ---
+
 function solution(array = []) {
   const filteredElements = array.filter((element, index) => {
     return index % 2 === 0;
