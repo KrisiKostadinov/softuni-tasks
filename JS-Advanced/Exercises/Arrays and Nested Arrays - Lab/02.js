@@ -1,3 +1,5 @@
+// --- 2. Last K Numbers Sequence ---
+
 function solution(input = []) {
     const n = input.split(', ')[0];
     const k = input.split(' ')[1];
