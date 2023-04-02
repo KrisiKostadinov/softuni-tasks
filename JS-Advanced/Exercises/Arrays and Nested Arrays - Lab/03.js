@@ -1,3 +1,5 @@
+// --- 3. Sum First Last ---
+
 function solution(array = []) {
     const firstElement = Number(array.shift());
     const secondElement = Number(array.pop());
